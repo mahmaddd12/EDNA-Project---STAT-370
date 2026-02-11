@@ -1,0 +1,69 @@
+sampleID	site_code	bank	dam	sample_type	field_negative	extraction_negative	pcr_negative
+Fox_VP01_L_rep1	VP	left	Aurora	upstream	Fox_N1	EB0728	neg1
+Fox_VP01_L_rep2	VP	left	Aurora	upstream	Fox_N1	EB0728	neg3
+Fox_VP01_L_rep3	VP	left	Aurora	upstream	Fox_N1	EB0728	neg3
+Fox_VP02_M_rep1	VP	middle	Aurora	upstream	Fox_N1	EB0729	neg2
+Fox_VP02_M_rep2	VP	middle	Aurora	upstream	Fox_N1	EB0729	neg2
+Fox_VP02_M_rep3	VP	middle	Aurora	upstream	Fox_N1	EB0729	neg3
+Fox_VP03_R_rep1	VP	right	Aurora	upstream	Fox_N1	EB0729	neg1
+Fox_VP03_R_rep2	VP	right	Aurora	upstream	Fox_N1	EB0729	neg3
+Fox_VP03_R_rep3	VP	right	Aurora	upstream	Fox_N1	EB0729	neg3
+Fox_SB01_L_rep1	SB	left	Aurora	midstream	Fox_N1	EB0728	neg2
+Fox_SB01_L_rep2	SB	left	Aurora	midstream	Fox_N1	EB0728	neg2
+Fox_SB01_L_rep3	SB	left	Aurora	midstream	Fox_N1	EB0728	neg3
+Fox_SB02_M_rep1	SB	middle	Aurora	midstream	Fox_N1	EB0728	neg1
+Fox_SB02_M_rep2	SB	middle	Aurora	midstream	Fox_N1	EB0728	neg3
+Fox_SB02_M_rep3	SB	middle	Aurora	midstream	Fox_N1	EB0728	neg3
+Fox_SB03_R_rep1	SB	right	Aurora	midstream	Fox_N1	EB0729	neg2
+Fox_SB03_R_rep2	SB	right	Aurora	midstream	Fox_N1	EB0729	neg2
+Fox_SB03_R_rep3	SB	right	Aurora	midstream	Fox_N1	EB0729	neg3
+Fox_IA01_L_rep1	IA	left	Aurora	downstream	Fox_N1	EB0729	neg2
+Fox_IA01_L_rep2	IA	left	Aurora	downstream	Fox_N1	EB0729	neg2
+Fox_IA01_L_rep3	IA	left	Aurora	downstream	Fox_N1	EB0729	neg3
+Fox_IA02_M_rep1	IA	middle	Aurora	downstream	Fox_N1	EB0729	neg2
+Fox_IA02_M_rep2	IA	middle	Aurora	downstream	Fox_N1	EB0729	neg2
+Fox_IA02_M_rep3	IA	middle	Aurora	downstream	Fox_N1	EB0729	neg3
+Fox_IA03_R_rep1	IA	right	Aurora	downstream	Fox_N1	EB0728	neg2
+Fox_IA03_R_rep2	IA	right	Aurora	downstream	Fox_N1	EB0728	neg2
+Fox_IA03_R_rep3	IA	right	Aurora	downstream	Fox_N1	EB0728	neg3
+Fox_CI01_L_rep1	CI	left	Montgomery	upstream	Fox_N1	EB0729	neg2
+Fox_CI01_L_rep2	CI	left	Montgomery	upstream	Fox_N1	EB0729	neg2
+Fox_CI01_L_rep3	CI	left	Montgomery	upstream	Fox_N1	EB0729	neg3
+Fox_CI02_M_rep1	CI	middle	Montgomery	upstream	Fox_N1	EB0728	neg1
+Fox_CI02_M_rep2	CI	middle	Montgomery	upstream	Fox_N1	EB0728	neg2
+Fox_CI02_M_rep3	CI	middle	Montgomery	upstream	Fox_N1	EB0728	neg3
+Fox_CI03_R_rep1	CI	right	Montgomery	upstream	Fox_N1	EB0729	neg2
+Fox_CI03_R_rep2	CI	right	Montgomery	upstream	Fox_N1	EB0729	neg3
+Fox_CI03_R_rep3	CI	right	Montgomery	upstream	Fox_N1	EB0729	neg4
+Fox_RO01_X_rep1	RO	left	Montgomery	midstream	Fox_N1	EB0729	neg2
+Fox_RO01_X_rep2	RO	left	Montgomery	midstream	Fox_N1	EB0729	neg2
+Fox_RO01_X_rep3	RO	left	Montgomery	midstream	Fox_N1	EB0729	neg3
+Fox_RO02_X_rep1	RO	left	Montgomery	midstream	Fox_N1	EB0729	neg2
+Fox_RO02_X_rep2	RO	left	Montgomery	midstream	Fox_N1	EB0729	neg2
+Fox_RO02_X_rep3	RO	left	Montgomery	midstream	Fox_N1	EB0729	neg3
+Fox_RO03_X_rep1	RO	left	Montgomery	midstream	Fox_N1	EB0728	neg1
+Fox_RO03_X_rep2	RO	left	Montgomery	midstream	Fox_N1	EB0728	neg3
+Fox_RO03_X_rep3	RO	left	Montgomery	midstream	Fox_N1	EB0728	neg3
+Fox_AD01_R_rep1	AD	right	Montgomery	downstream	Fox_N1	EB0728	neg1
+Fox_AD01_R_rep2	AD	right	Montgomery	downstream	Fox_N1	EB0728	neg3
+Fox_AD01_R_rep3	AD	right	Montgomery	downstream	Fox_N1	EB0728	neg3
+Fox_AD02_M_rep1	AD	middle	Montgomery	downstream	Fox_N1	EB0728	neg2
+Fox_AD02_M_rep2	AD	middle	Montgomery	downstream	Fox_N1	EB0728	neg2
+Fox_AD02_M_rep3	AD	middle	Montgomery	downstream	Fox_N1	EB0728	neg3
+Fox_AD03_L_rep1	AD	left	Montgomery	downstream	Fox_N1	EB0728	neg2
+Fox_AD03_L_rep2	AD	left	Montgomery	downstream	Fox_N1	EB0728	neg2
+Fox_AD03_L_rep3	AD	left	Montgomery	downstream	Fox_N1	EB0728	neg3
+Fox_N1_rep1	N/A	N/A	N/A	field negative	N/A	EB0729	neg2
+Fox_N1_rep2	N/A	N/A	N/A	field negative	N/A	EB0729	neg2
+Fox_N1_rep3	N/A	N/A	N/A	field negative	N/A	EB0729	neg3
+Fox_N1_rep4	N/A	N/A	N/A	field negative	N/A	EB0729	neg4
+EB0729_rep1	N/A	N/A	N/A	extraction negative	N/A	N/A	neg2
+EB0729_rep2	N/A	N/A	N/A	extraction negative	N/A	N/A	neg2
+EB0729_rep3	N/A	N/A	N/A	extraction negative	N/A	N/A	neg3
+EB0728_rep1	N/A	N/A	N/A	extraction negative	N/A	N/A	neg2
+EB0728_rep2	N/A	N/A	N/A	extraction negative	N/A	N/A	neg2
+EB0728_rep3	N/A	N/A	N/A	extraction negative	N/A	N/A	neg3
+neg1	N/A	N/A	N/A	pcr negative	N/A	N/A	N/A
+neg2	N/A	N/A	N/A	pcr negative	N/A	N/A	N/A
+neg3	N/A	N/A	N/A	pcr negative	N/A	N/A	N/A
+neg4	N/A	N/A	N/A	pcr negative	N/A	EB0910	N/A
