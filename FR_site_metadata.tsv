@@ -1,0 +1,19 @@
+date	river	siteID	site.code	site.name	sampleID	bank	lat.N	long.W	median.time	sampler	pump	filter.size	volume.ml	notes
+2024-10-24	Fox	1	VP	Violet Patch Park	Fox_VP01_L_102424	left	41.7009	88.34975	1045	pump	SmithRoot	0.45um	950	
+2024-10-24	Fox	1	VP	Violet Patch Park	Fox_VP02_M_102424	middle	41.7009	88.34975	1045	pump	SmithRoot	0.45um	1000	stopped because we thought 1L was all needed
+2024-10-24	Fox	1	VP	Violet Patch Park	Fox_VP03_R_102424	right	41.7009	88.34975	1045	pump	SmithRoot	0.45um	1000	stopped because we thought 1L was all needed
+2024-10-24	Fox	2	SB	South Broadway Park	Fox_SB01_L_102424	left	41.73246	88.33443	1215	pump	SmithRoot	0.45um	4100	in an active eddy. We were probaly affecting the water, and contaminating it
+2024-10-24	Fox	2	SB	South Broadway Park	Fox_SB02_M_102424	middle	41.73246	88.33443	1215	pump	SmithRoot	0.45um	2850	better flow, but fishermen moved upstream while sampling
+2024-10-24	Fox	2	SB	South Broadway Park	Fox_SB03_R_102424	right	41.73246	88.33443	1215	pump	SmithRoot	0.45um	750	
+2024-10-24	Fox	3	IA	Illinois Avenue Park	Fox_IA01_L_102424	left	41.7718	88.30836	1320	pump	SmithRoot	0.45um	1500	Veteran's Memorial Island; little visible flow
+2024-10-24	Fox	3	IA	Illinois Avenue Park	Fox_IA02_M_102424	middle	41.7718	88.30836	1320	pump	SmithRoot	0.45um	550	Veteran's Memorial Island; little visible flow
+2024-10-24	Fox	3	IA	Illinois Avenue Park	Fox_IA03_R_102424	right	41.7718	88.30836	1320	pump	SmithRoot	0.45um	3400	Veteran's Memorial Island; little visible flow
+2024-10-24	Fox	4	CI	Clark Island Recreational Area	Fox_CI01_L_102424	left	41.84538	88.30669	1430	pump	SmithRoot	0.45um	1350	
+2024-10-24	Fox	4	CI	Clark Island Recreational Area	Fox_CI02_M_102424	middle	41.84538	88.30669	1430	whirlypack	SmithRoot	0.45um	2000	pump stopped working; from here down, switched to sampling with bags, then filtered back at FMNH around 6pm
+2024-10-24	Fox	4	CI	Clark Island Recreational Area	Fox_CI03_R_102424	right	41.84538	88.30669	1430	whirlypack	SmithRoot	0.45um	2000	good flow at all three CI sites
+2024-10-24	Fox	5	RO	Red Oak Nature Center	Fox_RO01_X_102424	left	41.81778	88.32336	1515	whirlypack	SmithRoot	0.45um	2000	upstream of cave 50m. not a good place to work; a private site that needed permission. Tough to access whole river without boat.
+2024-10-24	Fox	5	RO	Red Oak Nature Center	Fox_RO02_X_102424	left	41.81778	88.32336	1515	whirlypack	SmithRoot	0.45um	2000	at cave. could not get to middle. Little current at all three sites. Wind was moving top of water toward bag samplers. RO02 leaked in bin. Could have contaminated other two samples.
+2024-10-24	Fox	5	RO	Red Oak Nature Center	Fox_RO03_X_102424	left	41.81778	88.32336	1515	whirlypack	SmithRoot	0.45um	2000	downstream of cave 5om. could not get to right bank
+2024-10-24	Fox	6	AD	Aurora Dam	Fox_AD01_R_102424	right	41.80592	88.32477	1550	whirlypack	SmithRoot	0.45um	2000	250m downstream of dam
+2024-10-24	Fox	6	AD	Aurora Dam	Fox_AD02_M_102424	middle	41.80592	88.32477	1550	whirlypack	SmithRoot	0.45um	950	250m downstream of dam
+2024-10-24	Fox	6	AD	Aurora Dam	Fox_AD03_L_102424	left	41.80592	88.32477	1550	whirlypack	SmithRoot	0.45um	2000	250m downstream of dam
